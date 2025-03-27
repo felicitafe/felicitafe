@@ -13,5 +13,5 @@ I specialize in **functional genomics**, particularly in understanding **cancer 
 📌 [CRISPR Screening Analysis](https://github.com/yourusername/CRISPR_Screening) – Investigating regulatory region perturbations.  
 
 ---
-📧 [Email](mailto:your@email.com)  
+📧 [Email](mailto:fberber20@ku.edu.tr)  
 
