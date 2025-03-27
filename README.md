@@ -16,4 +16,4 @@ These are some of my interests that I have practical experience:
 📨 [Email](mailto:fberber20@ku.edu.tr)  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felicitafe&layout=compact)
