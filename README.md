@@ -1,9 +1,9 @@
 I’m currently a PhD student working in **functional genomics**, particularly in understanding **cancer biology** through **NGS data analysis**. My research focuses on **transcription factors, sequence-specific features, and regulatory mechanisms** in breast cancer.  
 
  My expertise includes:  
-  **ChIP-seq, ATAC-seq, RNA-seq, CRISPR screens**  
-  **Data visualization & statistical analysis** 
-  **Clinical-genomic data integration** (METABRIC, TCGA)  
+ **ChIP-seq, ATAC-seq, RNA-seq, CRISPR screens**  
+ **Data visualization & statistical analysis** 
+ **Clinical-genomic data integration**  
 
 ---
 
