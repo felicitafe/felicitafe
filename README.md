@@ -8,8 +8,8 @@ These are some of my interests, and I have practical experience in the following
 ---
 
 ### 📂 **Projects**  
-📌 [ChIP-seq Peak Analysis](https://github.com/yourusername/ChIPseq_Analysis) – A pipeline for TF binding site analysis in breast cancer.  
-📌 [CRISPR Screening Analysis](https://github.com/yourusername/CRISPR_Screening) – Investigating regulatory region perturbations.  
+🧬 [ChIP-seq Peak Analysis](https://github.com/yourusername/ChIPseq_Analysis) – A pipeline for TF binding site analysis in breast cancer.  
+✂️ [CRISPR Screening Analysis](https://github.com/yourusername/CRISPR_Screening) – Investigating regulatory region perturbations.  
 
 ---
 📧 [Email](mailto:fberber20@ku.edu.tr)  
