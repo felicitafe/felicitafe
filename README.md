@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="genome_targeting.png" width="300">
+  <img src="genome_targeting.png" width="400">
 </p>
 
 
