@@ -1,4 +1,7 @@
-![Image Description](genome_targeting.png)
+<p align="center">
+  <img src="genome_targeting.png" width="300">
+</p>
+
 
 I’m currently a PhD student working in **functional genomics**, particularly in understanding **cancer biology** through **NGS data analysis**. My research focuses on **transcription factors, sequence-specific features, and regulatory mechanisms** in breast cancer.  
 
