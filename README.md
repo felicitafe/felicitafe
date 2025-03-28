@@ -13,7 +13,7 @@ These are some of my interests that I have practical experience:
 ---
 
 ### 📂 **Projects**  
-README.md
+
 🧬 [RNA-seq Analysis](https://github.com/felicitafe/rna-seq) – A pipeline for TF binding site analysis in breast cancer.  
 ✂️ [CRISPR Screening Analysis](https://github.com/yourusername/CRISPR_Screening) – Investigating regulatory region perturbations.  (notinusefornow)
 
